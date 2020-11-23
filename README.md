@@ -19,7 +19,5 @@
 
 </details>
 
-[website]: 
-[youtube]: 
 [instagram]: https://www.instagram.com/_karthika_prasad
 [linkedin]: https://www.linkedin.com/in/karthika-prasad-b6b24b181
